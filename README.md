@@ -1,5 +1,5 @@
-# liyi193328.github.io
-awesome-nlp
+
+## awesome-nlp
 
 ### NER
 1. [Natural Language Processing (Almost) from Scratch](http://jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).  
@@ -22,3 +22,10 @@ State-of-the-art model on SIGHAN2006 NER task.
 8. [Named Entity Recognition with Bidirectional LSTM-CNNs](http://xueshu.baidu.com/s?wd=paperuri%3A%28995499661ccaa95ca3688318f4bc594b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1511.08308&ie=utf-8&sc_us=14130444594064699095).  
 Method to apply lexicon features.
 9. [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf)
+
+
+## python rule engine
+
+1. [Durable Rules Engine](https://github.com/jruizgit/rules)
+2. [pykonow](https://github.com/buguroo/pyknow)
+3. [Intellect](https://github.com/nemonik/Intellect)
