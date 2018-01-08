@@ -23,7 +23,9 @@ State-of-the-art model on SIGHAN2006 NER task.
 Method to apply lexicon features.
 9. [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf)
 
+10. [neuroner](http://neuroner.com/)  [code](https://github.com/Franck-Dernoncourt/NeuroNER)
 
+11. [sequence_tagging](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 ## python rule engine, grammer parse
 
 1. [Durable Rules Engine](https://github.com/jruizgit/rules)
@@ -31,3 +33,13 @@ Method to apply lexicon features.
 3. [Intellect](https://github.com/nemonik/Intellect)
 4. [lark](https://github.com/erezsh/lark) A modern parsing library for Python, implementing Earley & LALR(1) and an easy interface
 5. [nltk grammer](http://www.nltk.org/book/ch09.html) Building Feature Based Grammars
+
+## NLP books
+1. [Speech and Language Processing (3rd ed. draft)](http://web.stanford.edu/~jurafsky/)
+
+## Good blogs
+
+
+## Great Nlp researcher
+
+1. [jurafsky] (https://web.stanford.edu/~jurafsky/)
