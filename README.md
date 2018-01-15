@@ -39,6 +39,11 @@ Method to apply lexicon features.
 
 ## Good blogs
 
+## key words and phrase
+1. http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+
+## Python NLP Good Tools
+1. [textblob](http://textblob.readthedocs.io/en/dev/)
 
 ## Great Nlp researcher
 
